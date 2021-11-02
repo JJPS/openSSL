@@ -23,7 +23,7 @@ Los métodos de cifrado los podemos ver:
 
 <code>openssl enc -list</code>
 
-![Parámetros openssl enc -help](./Imagenes/openssl_enc_list.png)
+![Parámetros openssl enc -help](./Images/openssl_enc_list.png)
 
 ## Descifrado
 
@@ -35,7 +35,7 @@ Para descifrar un archivo emplearemos la siguiente sintaxis:
 
 Para obtener un listado de todos los parámetros para cifrar con emplearemos `openssl enc -help` 
 
-![Parámetros openssl enc -help](./Imagenes/openssl_enc_help.png)
+![Parámetros openssl enc -help](./Images/openssl_enc_help.png)
 
 ## Envío de adjuntos por mail
 
